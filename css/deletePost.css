@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to right, #ffbd70 0%, #9e5500 100%) !important;
+}
+.container{
+    
+    box-sizing: border-box;
+    margin-top:3%;
+    padding-left: 5%;
+    
+}
